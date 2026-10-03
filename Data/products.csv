@@ -1,0 +1,18 @@
+product_id,name,price,stock_quantity,category_id
+1,Mechanical Keyboard,4500.0,50,1
+2,Cotton Hoodie,1200.0,30,2
+3,Desk Lamp,800.0,20,3
+4,Yoga Mat,600.0,100,4
+5,Vitamin C Serum,450.0,60,5
+6,Database Concepts 6th Ed,950.0,15,6
+7,Car Dashboard Camera,3200.0,25,7
+8,Lego Star Wars,5400.0,10,8
+9,Organic Green Tea,350.0,200,9
+10,Whey Protein 1kg,2200.0,45,10
+11,Ergonomic Chair,8500.0,12,11
+12,Dog Chew Toy,250.0,150,12
+13,Acoustic Guitar,6500.0,8,13
+14,Inception Blu-Ray,799.0,40,14
+15,PlayStation 5 Controller,5990.0,35,15
+16,Baby Stroller,4500.0,18,16
+17,Power Drill 800W,2800.0,22,17

@@ -1,0 +1,18 @@
+ticket_id,customer_id,employee_id,issue_description,status
+1,1,2,Keyboard switches sticking,Open
+2,2,6,Wrong size hoodie received,Closed
+3,3,11,Lamp arrived broken,In Progress
+4,4,14,Late delivery,Closed
+5,5,2,Serum seal was broken,Open
+6,6,6,Pages missing from book,In Progress
+7,7,11,Camera not recording,Closed
+8,8,14,Missing lego pieces,Open
+9,9,2,Tea tastes stale,Closed
+10,10,6,Protein tub dented,In Progress
+11,11,11,Chair wheels missing,Open
+12,12,14,Dog toy tore instantly,Closed
+13,13,2,Guitar string snapped,In Progress
+14,14,6,Blu-ray case cracked,Closed
+15,15,11,Controller drift issue,Open
+16,16,14,Stroller wheel jammed,In Progress
+17,17,2,Drill battery not charging,Closed
