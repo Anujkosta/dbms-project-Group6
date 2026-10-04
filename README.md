@@ -5,24 +5,24 @@ The project provides a fully structured 14-table schema to manage retail operati
 
 ## ✨ Features
 
-* 👤 Manage customers and internal employees
-* 📦 Manage product inventory and supplier restocks
-* 🚚 Track shipments and order statuses
-* 💳 Process payments and promotional coupons
-* 🎫 Manage customer support tickets and product reviews
-* 🔗 Strictly normalized to 3NF to eliminate data redundancy
-* 🔍 Run complex multi-table SQL `SELECT` joins and aggregations
-* ⚡ Execute automated `AFTER UPDATE` Triggers for transparent data auditing
-* 🛡️ Execute `BEFORE INSERT` Triggers with User-Defined Exceptions
-* 🔄 Utilize explicit PL/SQL Cursors for automated batch price adjustments
+*  Manage customers and internal employees
+*  Manage product inventory and supplier restocks
+*  Track shipments and order statuses
+*  Process payments and promotional coupons
+*  Manage customer support tickets and product reviews
+*  Strictly normalized to 3NF to eliminate data redundancy
+*  Run complex multi-table SQL `SELECT` joins and aggregations
+*  Execute automated `AFTER UPDATE` Triggers for transparent data auditing
+*  Execute `BEFORE INSERT` Triggers with User-Defined Exceptions
+*  Utilize explicit PL/SQL Cursors for automated batch price adjustments
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
-* 🐍 Python
-* 🐬 MySQL
-* 🗄️ MySQL Workbench (for ERD generation and PL/SQL execution)
+*  Python
+*  MySQL
+*  MySQL Workbench (for ERD generation and PL/SQL execution)
 
-## 🔗 Installation & Setup
+##  Installation & Setup
 
 1. **Initialize the Database:**
    Open MySQL Workbench and execute the DDL script to generate the 14 tables:
