@@ -1,9 +1,9 @@
-# 🛒 E-Commerce Retail Database System
+#  E-Commerce Retail Database System
 
 A comprehensive, strictly normalized E-Commerce Database System built using Python and MySQL. 
 The project provides a fully structured 14-table schema to manage retail operations, complete with automated triggers, explicit cursors, and transaction auditing directly within the MySQL database. 🛠️💻
 
-## ✨ Features
+##  Features
 
 *  Manage customers and internal employees
 *  Manage product inventory and supplier restocks
